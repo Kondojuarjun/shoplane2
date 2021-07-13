@@ -1,0 +1,21 @@
+.order-confirm {
+    margin-top: 120px;
+    margin-bottom: 70px;
+    text-align: center;
+    height: 50vh
+}
+
+.order-confirm img {
+    height: 300px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+.order-confirm p {
+    margin-top: 10px;
+}
