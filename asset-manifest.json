@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shoplane2/static/css/main.df19e0c8.chunk.css",
+    "main.js": "/shoplane2/static/js/main.e25cecf4.chunk.js",
+    "main.js.map": "/shoplane2/static/js/main.e25cecf4.chunk.js.map",
+    "runtime-main.js": "/shoplane2/static/js/runtime-main.1c515918.js",
+    "runtime-main.js.map": "/shoplane2/static/js/runtime-main.1c515918.js.map",
+    "static/css/2.4be38407.chunk.css": "/shoplane2/static/css/2.4be38407.chunk.css",
+    "static/js/2.605d5517.chunk.js": "/shoplane2/static/js/2.605d5517.chunk.js",
+    "static/js/2.605d5517.chunk.js.map": "/shoplane2/static/js/2.605d5517.chunk.js.map",
+    "static/js/3.48b043d2.chunk.js": "/shoplane2/static/js/3.48b043d2.chunk.js",
+    "static/js/3.48b043d2.chunk.js.map": "/shoplane2/static/js/3.48b043d2.chunk.js.map",
+    "index.html": "/shoplane2/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/shoplane2/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.df19e0c8.chunk.css.map": "/shoplane2/static/css/main.df19e0c8.chunk.css.map",
+    "static/js/2.605d5517.chunk.js.LICENSE.txt": "/shoplane2/static/js/2.605d5517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c515918.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.605d5517.chunk.js",
+    "static/css/main.df19e0c8.chunk.css",
+    "static/js/main.e25cecf4.chunk.js"
+  ]
+}
